@@ -16,8 +16,7 @@ I am a passionate backend developer with a love for coding and open source.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsraaAboEleneen&show_icons=true&theme=dark&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaAboEleneen&layout=compact&theme=dark)
 
-## Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=EsraaAboEleneen&theme=github-dark)
+
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/esraa-abo-eleneen-28819a1b3)
