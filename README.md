@@ -13,7 +13,6 @@ I am a passionate backend developer with a love for coding and open source.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsraaAboEleneen&show_icons=true&theme=dark&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaAboEleneen&layout=compact&theme=dark)
 
 
